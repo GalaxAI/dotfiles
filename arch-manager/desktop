@@ -25,7 +25,8 @@ stow
 bash-completion
 
 # Programming
-
+# This is OS version on arch
+code 
 # Python
 ruff
 uv
