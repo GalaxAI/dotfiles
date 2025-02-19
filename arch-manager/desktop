@@ -8,6 +8,7 @@ gwenview
 
 # Utils
 neovim
+tmux
 tailscale
 fastfetch
 
@@ -25,8 +26,6 @@ stow
 bash-completion
 
 # Programming
-# This is OS version on arch
-code 
 # Python
 ruff
 uv
