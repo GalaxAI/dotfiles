@@ -30,7 +30,7 @@ systemctl enable sddm
 ```
 ## Stow files
 ```bash
-stow --adopt --ignore='home-manager|arch-manager|aur-manager' .
+stow --adopt --ignore='arch-manager|aur-manager' .
 ```
 
 
