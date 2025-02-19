@@ -5,7 +5,7 @@
         "height": 15,
         "width": 30,
         "padding": {
-            "top": 5,
+            "top": 5,   
             "left": 3
         }
     },
@@ -16,8 +16,8 @@
             "format": "\u001b[90m┌──────────────────────Hardware──────────────────────┐"
         },
         {
-            "type": "host", // Just works
-            "key": " PC",
+            "type": "title",
+            "format": " {6}{7}{8}",
             "keyColor": "green"
         },
         {
