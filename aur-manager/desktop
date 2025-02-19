@@ -1,13 +1,12 @@
 # Daily Drivers
-zen-browser
+zen-browser-bin
+discord-canary
+ghostty-git
 
-# Programming
-cursor-bin
+# utils
+nerd-fonts
+flameshot
 
+# gaming
+linutil
 
-
-# Amd gpu
-mesa
-lib32-mesa
-xf86-video-amdgpu
-# For more gaming related things just use linutil

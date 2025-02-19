@@ -1,6 +1,36 @@
+# Desktop manager
+plasma-desktop
+sddm-kcm
+dolphin-plugins
+kscreen
+plasma-pa
+gwenview
+
+# Utils
+neovim
+tailscale
+fastfetch
+
+ark
+zip
+unzip
+p7zip
+xz
+
+fzf
+btop
+tree
+wget
+stow
+bash-completion
+
+# Programming
+
+# Python
+ruff
+uv
+mypy
+
 # Games
 steam
 goverlay
-
-## Utils
-tailscale

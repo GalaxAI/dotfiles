@@ -1,5 +1,3 @@
 [user]
 	name = GalaXai
 	email = 92019780+GalaXai@users.noreply.github.com
-[credential]
-	helper = /usr/lib/git-core/git-credential-libsecret
