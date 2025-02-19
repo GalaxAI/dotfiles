@@ -35,4 +35,5 @@
     "gitlens.mode.active": "review",
     "go.toolsManagement.autoUpdate": true,
     "window.customTitleBarVisibility": "auto",
+    "chat.commandCenter.enabled": false,
 }

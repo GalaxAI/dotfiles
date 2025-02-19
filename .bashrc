@@ -17,7 +17,6 @@ PS1="[${USERNAME_COLOR}\u${AT_COLOR}@${HOST_COLOR}\h ${DIR_COLOR}\W${RESET}\$] "
 
 
 # Programming
-alias code='cursor'
 
 ## Python
 alias pip='uv pip'
