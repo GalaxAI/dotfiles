@@ -6,7 +6,6 @@ Arch + kde plasma 6 and nix where possible
 ```bash
 archinstall
 # ... minimal + grub + multilib
-# This might be moved to home-manager with development of plasma-manager
 sudo pacman -S git openssh stow
 # openssh is optional
 ```
