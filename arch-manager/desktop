@@ -30,6 +30,7 @@ bash-completion
 ruff
 uv
 mypy
+pre-commit
 
 # Games
 steam
