@@ -32,6 +32,10 @@ uv
 mypy
 pre-commit
 
+# amd-gpu programming
+rocm-hip-sdk
+rocm-opencl-sdk
+
 # Games
 steam
 goverlay
