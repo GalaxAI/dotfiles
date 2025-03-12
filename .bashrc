@@ -21,6 +21,7 @@ PS1="[${USERNAME_COLOR}\u${AT_COLOR}@${HOST_COLOR}\h ${DIR_COLOR}\W${RESET}\$] "
 ## Python
 alias pip='uv pip'
 alias sv='source .venv/bin/activate'
+alias vim="nvim"
 ## Go
 if [ -f go.mod ]; then
     export PATH=$PATH:$(dirname $(go list -f '{{.Target}}' .))
