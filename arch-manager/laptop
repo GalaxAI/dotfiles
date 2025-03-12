@@ -32,6 +32,8 @@ stow
 bash-completion
 
 # Programming
+docker
+pre-commit
 # Python
 ruff
 uv
