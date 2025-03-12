@@ -1,0 +1,42 @@
+# Desktop manager
+plasma-desktop
+plasma-nm 
+sddm-kcm
+dolphin-plugins
+kscreen
+plasma-pa
+gwenview
+# bluetooth
+bluedevil
+bluez
+bluez-utils
+
+# Utils
+less
+neovim
+tmux
+tailscale
+fastfetch
+
+ark
+zip
+unzip
+p7zip
+xz
+
+fzf
+btop
+tree
+wget
+stow
+bash-completion
+
+# Programming
+# Python
+ruff
+uv
+mypy
+
+# Games
+steam
+goverlay
