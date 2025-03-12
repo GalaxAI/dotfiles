@@ -33,6 +33,7 @@ bash-completion
 
 # Programming
 docker
+docker-buildx
 pre-commit
 # Python
 ruff
