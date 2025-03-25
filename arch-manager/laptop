@@ -40,7 +40,8 @@ pre-commit
 ruff
 uv
 mypy
-
+## Python packages
+python-requests
 # Games
 steam
 goverlay
