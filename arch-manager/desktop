@@ -33,6 +33,9 @@ uv
 mypy
 pre-commit
 
+# Other programming 
+clang
+
 # amd-gpu programming
 rocm-hip-sdk
 rocm-opencl-sdk
