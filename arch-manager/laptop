@@ -36,6 +36,7 @@ docker
 docker-buildx
 docker-compose
 pre-commit
+github-cli
 # Python
 ruff
 uv
