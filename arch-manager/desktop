@@ -35,7 +35,9 @@ pre-commit
 
 # Other programming 
 clang
-
+llvm
+lld
+libclc
 # amd-gpu programming
 rocm-hip-sdk
 rocm-opencl-sdk
