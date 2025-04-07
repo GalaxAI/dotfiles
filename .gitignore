@@ -1,0 +1,7 @@
+.config/
+
+!.config/Code/User/keybindings.json
+!.config/Code/User/settings.json
+!.config/fastfetch/config.jsonc
+!.config/flameshot/
+!.config/obs-studi/plugins
