@@ -39,7 +39,11 @@ clang
 # amd-gpu programming
 rocm-hip-sdk
 rocm-opencl-sdk
-
+rocm-opencl-runtime
+rocm-smi-lib
+hsa-rocr
+# Oher ML stuff
+cpupower
 # Games
 steam
 goverlay
