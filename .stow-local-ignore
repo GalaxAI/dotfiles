@@ -1,10 +1,7 @@
 .git
 .gitignore
 README.md
-kde-shortcuts.kksrc
-flake.nix
-flake.lock
 
-home-manager/
-arch-manager/
-aur-manager/
+arch_packages
+aur_packages
+scripts

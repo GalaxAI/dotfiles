@@ -1,0 +1,78 @@
+// Zed settings
+//
+// For information on how to configure Zed, see the Zed
+// documentation: https://zed.dev/docs/configuring-zed
+//
+// To see all of Zed's default settings without changing your
+// custom settings, run `zed: open default settings` from the
+// command palette (cmd-shift-p / ctrl-shift-p)
+{
+  "telemetry": {   // Make it better <3
+    "diagnostics": true,
+    "metrics": true
+  },
+
+  "ui_font_size": 14,
+  "buffer_font_size": 14,
+  "theme": {
+    "mode": "system",
+    "light": "One Light",
+    "dark": "One Dark Pro"
+  },
+  "icon_theme": {
+    "mode": "system",
+    "dark": "JetBrains New UI Icons (Dark)",
+    "light": "JetBrains New UI Icons (Light)"
+  },
+  "theme_overrides": {
+    "One Dark Pro": {
+      "syntax": {
+        "string.doc": {
+          "color": "#d19a66ff"
+        }
+      }
+    }
+  },
+
+  "format_on_save": "off", // This will be enabled per language
+  "terminal": {
+    "blinking": "on",
+    "dock": "right",
+    "default_width": 512,
+    "font_size": 12
+  },
+
+  // Languages
+  "languages": {
+    "Python": {
+      "format_on_save": "on",
+      "language_servers": [
+        "ty",
+        "!basedpyright",
+        "..."
+      ]
+    }
+  },
+
+  "agent": {
+    "inline_assistant_model": {
+      "provider": "openai",
+      "model": "gpt-5"
+    },
+    "default_model": {
+      "provider": "openai",
+      "model": "gpt-5"
+    },
+    "model_parameters": []
+  },
+  // Panels
+  "project_panel": {
+      "indent_size": 15
+  },
+  "collaboration_panel": {
+    "button": false
+  },
+  "outline_panel": {
+    "button": false
+  }
+}
