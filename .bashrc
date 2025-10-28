@@ -4,18 +4,10 @@
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
-alias grep='grep --color=auto'
-RESET='\[\e[0m\]'
-USERNAME_COLOR='\[\e[38;5;114m\]'  # green from color2 #98c379
-AT_COLOR='\[\e[38;5;147m\]'       # white from color7 #dcdfe4
-HOST_COLOR='\[\e[38;5;75m\]'      # blue from color4 #61afef
-DIR_COLOR='\[\e[38;5;176m\]'      # magenta from color5 #c678dd
-
-
-PS1="[${USERNAME_COLOR}\u${AT_COLOR}@${HOST_COLOR}\h ${DIR_COLOR}\W${RESET}\$] "
 
 source ~/keys.sh
 
+alias grep='grep --color=auto'
 alias zed="zeditor"
 # Python
 alias pip='uv pip'
