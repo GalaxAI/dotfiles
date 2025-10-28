@@ -20,6 +20,8 @@ alias zed="zeditor"
 # Python
 alias pip='uv pip'
 alias sv='source .venv/bin/activate'
+alias ruff="uvx ruff"
+alias mypy="uvx mypy"
 # System
 alias cat='bat'
 alias vim="nvim"
