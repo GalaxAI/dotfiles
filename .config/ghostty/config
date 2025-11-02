@@ -1,4 +1,4 @@
-scrollback-limit = 2000
+scrollback-limit = 10000
 
 window-width = 128
 window-height = 32

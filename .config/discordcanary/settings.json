@@ -1,0 +1,15 @@
+{
+  "SKIP_HOST_UPDATE": true,
+  "offloadAdmControls": true,
+  "enableHardwareAcceleration": true,
+  "chromiumSwitches": {},
+  "IS_MAXIMIZED": false,
+  "IS_MINIMIZED": false,
+  "WINDOW_BOUNDS": {
+    "x": 0,
+    "y": 28,
+    "width": 1919,
+    "height": 1008
+  },
+  "BACKGROUND_COLOR": "#000000"
+}
