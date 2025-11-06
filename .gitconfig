@@ -3,3 +3,5 @@
 	email = 92019780+GalaXai@users.noreply.github.com
 [core]
 	editor = nvim
+[coderabbit]
+	machineId = cli/a3f5fa40ab144367a818b60179a1c61a
